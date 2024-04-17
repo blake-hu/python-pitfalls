@@ -1,2 +1,2 @@
-# python-pitfalls
+# Python Pitfalls
 Common bugs in Python programs
