@@ -28,3 +28,6 @@ knn = KNN("KNN", 3)
 knn.print_name()  # TODO: Will this work?
 
 knn.increment_k_and_print()
+
+# TODO: Are instance variables public or private?
+print(f"Accessing k directly, k = {knn.k}")
